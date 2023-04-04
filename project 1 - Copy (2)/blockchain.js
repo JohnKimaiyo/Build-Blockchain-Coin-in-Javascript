@@ -1,6 +1,6 @@
 function Blockchain(){
-    this.main = [],
-    this.newTransaction = [],
+    this.main = [];
+    this.newTransaction = [];
 }
 
 Blockchain.prototype.createNewBlock = function(
