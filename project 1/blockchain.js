@@ -16,6 +16,6 @@ Blockchain.prototype.createNewBlock = function (
     previousBlockHash: previousBlockHash,
   };
 
-  (this.newTransaction = []), thi.chain.push(newBlock);
+  (this.newTransaction = []), this.chain.push(newBlock);
   return newBlock;
 };
