@@ -3,7 +3,7 @@ function Blockchain(){
     this.newTransaction=[];
 }
 
-Blockchain.prototype.createNewBlock = functin(
+Blockchain.prototype.createNewBlock = functon(
     nonce,
     previousBlockHash,
     hash
