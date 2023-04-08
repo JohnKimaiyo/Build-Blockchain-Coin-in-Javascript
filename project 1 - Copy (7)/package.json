@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node": "^19.8.1"
+  },
+  "name": "project-1---copy-(7)",
+  "version": "1.0.0",
+  "main": "blockchain.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
